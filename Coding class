@@ -1,21 +1,57 @@
-<h1>My Mini Portfolio</h1>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Mini Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        h2 {
+            color: #007BFF;
+        }
+        p {
+            font-size: 16px;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+        ul {
+            list-style-type: square;
+            color: #FF6347;
+        }
+        ol {
+            list-style-type: decimal;
+            color: #8A2BE2;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Mini Portfolio</h1>
     <h2>A Little About Me</h2>
-    <p>Hi! My name is Kana, and I love coding, playing video games, and reading in my free time.</p>
+    <p>Hi! My name is Alex, and I love coding, playing video games, and drawing in my free time.</p>
 
     <h2>My Favorite Foods</h2>
     <ul>
         <li>Pizza</li>
-        <li>Fried Chicken</li>
+        <li>Sushi</li>
         <li>Ice Cream</li>
     </ul>
 
     <h2>My Daily Routine</h2>
     <ol>
-        <li>Wake up at 8:00 AM</li>
+        <li>Wake up at 7:00 AM</li>
         <li>Have breakfast</li>
         <li>Go to school</li>
         <li>Do homework</li>
-        <li>Play games</li>
-        <li>Read book</li>
+        <li>Play games or draw</li>
         <li>Go to bed at 10:00 PM</li>
     </ol>
+</body>
+</html>
