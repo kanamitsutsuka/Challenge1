@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Page</title>
+    <style>
+        /* Change background color */
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Style headings */
+        h1 {
+            color: darkgreen;
+            font-family: 'Georgia', serif;
+        }
+
+        h2 {
+            color: navy;
+            font-family: 'Verdana', sans-serif;
+        }
+
+        /* Style paragraph text */
+        p {
+            color: black;
+            font-size: 16px;
+        }
+
+        /* Style unordered list */
+        ul {
+            list-style-type: square;
+            color: darkred;
+        }
+
+        /* Style ordered list */
+        ol {
+            list-style-type: decimal;
+            color: darkblue;
+        }
+    </style>
+</head>
+<body>
