@@ -21,9 +21,6 @@
             color: darkgreen;
             font-weight: bold;
         }
-        a:hover {
-            color: orange;
-        }
     </style>
 </head>
 <body>
